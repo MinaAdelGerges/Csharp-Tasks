@@ -1,0 +1,5 @@
+E:\mina\Iti\projects\day5\Test3\bin\Debug\Test3.exe.config
+E:\mina\Iti\projects\day5\Test3\bin\Debug\Test3.exe
+E:\mina\Iti\projects\day5\Test3\bin\Debug\Test3.pdb
+E:\mina\Iti\projects\day5\Test3\obj\Debug\Test3.exe
+E:\mina\Iti\projects\day5\Test3\obj\Debug\Test3.pdb

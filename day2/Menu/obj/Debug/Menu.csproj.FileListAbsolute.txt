@@ -1,0 +1,6 @@
+E:\mina\ConsoleApplication1\Menu\bin\Debug\Menu.exe.config
+E:\mina\ConsoleApplication1\Menu\bin\Debug\Menu.exe
+E:\mina\ConsoleApplication1\Menu\bin\Debug\Menu.pdb
+E:\mina\ConsoleApplication1\Menu\obj\Debug\Menu.exe
+E:\mina\ConsoleApplication1\Menu\obj\Debug\Menu.pdb
+E:\mina\ConsoleApplication1\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\mina\Iti\projects\day6\day6\bin\Debug\day6.exe.config
+E:\mina\Iti\projects\day6\day6\bin\Debug\day6.exe
+E:\mina\Iti\projects\day6\day6\bin\Debug\day6.pdb
+E:\mina\Iti\projects\day6\day6\obj\Debug\day6.exe
+E:\mina\Iti\projects\day6\day6\obj\Debug\day6.pdb
+E:\mina\Iti\projects\day6\day6\obj\Debug\day6.csprojResolveAssemblyReference.cache
+E:\mina\Iti\oop\oop lab\day6\day6\bin\Debug\day6.exe.config
+E:\mina\Iti\oop\oop lab\day6\day6\obj\Debug\day6.exe
+E:\mina\Iti\oop\oop lab\day6\day6\obj\Debug\day6.pdb

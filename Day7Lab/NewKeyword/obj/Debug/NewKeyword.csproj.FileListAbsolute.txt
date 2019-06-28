@@ -1,0 +1,6 @@
+D:\VS Workspace\Day7Lab\NewKeyword\bin\Debug\NewKeyword.exe.config
+D:\VS Workspace\Day7Lab\NewKeyword\bin\Debug\NewKeyword.exe
+D:\VS Workspace\Day7Lab\NewKeyword\bin\Debug\NewKeyword.pdb
+D:\VS Workspace\Day7Lab\NewKeyword\obj\Debug\NewKeyword.csprojResolveAssemblyReference.cache
+D:\VS Workspace\Day7Lab\NewKeyword\obj\Debug\NewKeyword.exe
+D:\VS Workspace\Day7Lab\NewKeyword\obj\Debug\NewKeyword.pdb

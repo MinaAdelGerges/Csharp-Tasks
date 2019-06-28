@@ -1,0 +1,5 @@
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Degree\bin\Debug\Degree.exe.config
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Degree\bin\Debug\Degree.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Degree\bin\Debug\Degree.pdb
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Degree\obj\Debug\Degree.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Degree\obj\Debug\Degree.pdb

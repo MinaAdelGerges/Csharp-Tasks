@@ -1,0 +1,5 @@
+E:\mina\Iti\projects\day7\student\bin\Debug\student.exe.config
+E:\mina\Iti\projects\day7\student\bin\Debug\student.exe
+E:\mina\Iti\projects\day7\student\bin\Debug\student.pdb
+E:\mina\Iti\projects\day7\student\obj\Debug\student.exe
+E:\mina\Iti\projects\day7\student\obj\Debug\student.pdb

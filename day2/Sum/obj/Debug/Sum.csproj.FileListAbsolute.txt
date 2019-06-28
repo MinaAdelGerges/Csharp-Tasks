@@ -1,0 +1,8 @@
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Sum\bin\Debug\Sum.exe.config
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Sum\bin\Debug\Sum.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Sum\bin\Debug\Sum.pdb
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Sum\obj\Debug\Sum.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Sum\obj\Debug\Sum.pdb
+E:\mina\ConsoleApplication1\Sum\bin\Debug\Sum.exe.config
+E:\mina\ConsoleApplication1\Sum\obj\Debug\Sum.exe
+E:\mina\ConsoleApplication1\Sum\obj\Debug\Sum.pdb

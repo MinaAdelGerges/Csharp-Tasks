@@ -1,0 +1,6 @@
+E:\mina\Iti\projects\day5\Test2\bin\Debug\Test2.exe.config
+E:\mina\Iti\projects\day5\Test2\bin\Debug\Test2.exe
+E:\mina\Iti\projects\day5\Test2\bin\Debug\Test2.pdb
+E:\mina\Iti\projects\day5\Test2\obj\Debug\Test2.exe
+E:\mina\Iti\projects\day5\Test2\obj\Debug\Test2.pdb
+E:\mina\Iti\projects\day5\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache

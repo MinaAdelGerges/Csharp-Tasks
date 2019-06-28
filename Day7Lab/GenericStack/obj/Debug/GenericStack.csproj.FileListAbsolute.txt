@@ -1,0 +1,6 @@
+D:\VS Workspace\Day7Lab\GenericStack\bin\Debug\GenericStack.exe.config
+D:\VS Workspace\Day7Lab\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+D:\VS Workspace\Day7Lab\GenericStack\bin\Debug\GenericStack.exe
+D:\VS Workspace\Day7Lab\GenericStack\bin\Debug\GenericStack.pdb
+D:\VS Workspace\Day7Lab\GenericStack\obj\Debug\GenericStack.exe
+D:\VS Workspace\Day7Lab\GenericStack\obj\Debug\GenericStack.pdb

@@ -1,0 +1,6 @@
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\bin\Debug\structEmployee.exe.config
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\bin\Debug\structEmployee.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\bin\Debug\structEmployee.pdb
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\obj\Debug\structEmployee.csprojResolveAssemblyReference.cache
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\obj\Debug\structEmployee.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\structEmployee\obj\Debug\structEmployee.pdb

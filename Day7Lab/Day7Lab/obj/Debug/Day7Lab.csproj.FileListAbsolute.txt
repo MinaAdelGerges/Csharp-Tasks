@@ -1,0 +1,6 @@
+D:\VS Workspace\Day7Lab\Day7Lab\bin\Debug\Day7Lab.exe.config
+D:\VS Workspace\Day7Lab\Day7Lab\bin\Debug\Day7Lab.exe
+D:\VS Workspace\Day7Lab\Day7Lab\bin\Debug\Day7Lab.pdb
+D:\VS Workspace\Day7Lab\Day7Lab\obj\Debug\Day7Lab.exe
+D:\VS Workspace\Day7Lab\Day7Lab\obj\Debug\Day7Lab.pdb
+D:\VS Workspace\Day7Lab\Day7Lab\obj\Debug\Day7Lab.csprojResolveAssemblyReference.cache

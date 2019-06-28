@@ -1,0 +1,6 @@
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\bin\Debug\Swap.exe.config
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\bin\Debug\Swap.exe
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\bin\Debug\Swap.pdb
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\obj\Debug\Swap.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\obj\Debug\Swap.exe
+C:\Users\Mina\Documents\Visual Studio 2015\Projects\Day4\Swap\obj\Debug\Swap.pdb

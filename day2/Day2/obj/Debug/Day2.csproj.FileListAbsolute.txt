@@ -1,0 +1,6 @@
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\bin\Debug\Day2.exe.config
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\bin\Debug\Day2.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\bin\Debug\Day2.pdb
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\obj\Debug\Day2.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Day2\obj\Debug\Day2.pdb

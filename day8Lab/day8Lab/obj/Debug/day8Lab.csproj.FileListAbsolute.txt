@@ -1,0 +1,2 @@
+E:\mina\Iti\projects\day8Lab\day8Lab\bin\Debug\day8Lab.exe.config
+E:\mina\Iti\oop\oop lab\day8Lab\day8Lab\bin\Debug\day8Lab.exe.config

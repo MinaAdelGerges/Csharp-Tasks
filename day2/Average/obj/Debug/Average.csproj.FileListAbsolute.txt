@@ -1,0 +1,11 @@
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Average\bin\Debug\Average.exe.config
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Average\bin\Debug\Average.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Average\bin\Debug\Average.pdb
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Average\obj\Debug\Average.exe
+C:\Users\Mina\documents\visual studio 2012\Projects\ConsoleApplication1\Average\obj\Debug\Average.pdb
+E:\mina\ConsoleApplication1\Average\bin\Debug\Average.exe.config
+E:\mina\ConsoleApplication1\Average\obj\Debug\Average.exe
+E:\mina\ConsoleApplication1\Average\obj\Debug\Average.pdb
+E:\mina\ConsoleApplication1\Average\bin\Debug\Average.exe
+E:\mina\ConsoleApplication1\Average\bin\Debug\Average.pdb
+E:\mina\ConsoleApplication1\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache

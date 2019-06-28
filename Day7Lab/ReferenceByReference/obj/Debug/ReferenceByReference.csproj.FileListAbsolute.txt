@@ -1,0 +1,5 @@
+D:\VS Workspace\Day7Lab\ReferenceByReference\bin\Debug\ReferenceByReference.exe.config
+D:\VS Workspace\Day7Lab\ReferenceByReference\bin\Debug\ReferenceByReference.exe
+D:\VS Workspace\Day7Lab\ReferenceByReference\bin\Debug\ReferenceByReference.pdb
+D:\VS Workspace\Day7Lab\ReferenceByReference\obj\Debug\ReferenceByReference.exe
+D:\VS Workspace\Day7Lab\ReferenceByReference\obj\Debug\ReferenceByReference.pdb

@@ -1,0 +1,6 @@
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\bin\Debug\arrayOfEmployee.exe.config
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\bin\Debug\arrayOfEmployee.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\bin\Debug\arrayOfEmployee.pdb
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\obj\Debug\arrayOfEmployee.csprojResolveAssemblyReference.cache
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\obj\Debug\arrayOfEmployee.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfEmployee\obj\Debug\arrayOfEmployee.pdb

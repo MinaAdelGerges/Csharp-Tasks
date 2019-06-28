@@ -1,0 +1,6 @@
+E:\mina\Iti\projects\day7\Stack\bin\Debug\Stack.exe.config
+E:\mina\Iti\projects\day7\Stack\bin\Debug\Stack.exe
+E:\mina\Iti\projects\day7\Stack\bin\Debug\Stack.pdb
+E:\mina\Iti\projects\day7\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+E:\mina\Iti\projects\day7\Stack\obj\Debug\Stack.exe
+E:\mina\Iti\projects\day7\Stack\obj\Debug\Stack.pdb

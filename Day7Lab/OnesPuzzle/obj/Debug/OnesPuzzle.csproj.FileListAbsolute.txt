@@ -1,0 +1,12 @@
+D:\VS Workspace\Day7Lab\OnesPuzzle\bin\Debug\OnesPuzzle.exe.config
+D:\VS Workspace\Day7Lab\OnesPuzzle\bin\Debug\OnesPuzzle.exe
+D:\VS Workspace\Day7Lab\OnesPuzzle\bin\Debug\OnesPuzzle.pdb
+D:\VS Workspace\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.exe
+D:\VS Workspace\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.pdb
+D:\VS Workspace\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.csprojResolveAssemblyReference.cache
+E:\mina\Iti\Day7Lab\OnesPuzzle\bin\Debug\OnesPuzzle.exe.config
+E:\mina\Iti\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.exe
+E:\mina\Iti\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.pdb
+E:\mina\Iti\oop\oop lab\Day7Lab\OnesPuzzle\bin\Debug\OnesPuzzle.exe.config
+E:\mina\Iti\oop\oop lab\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.exe
+E:\mina\Iti\oop\oop lab\Day7Lab\OnesPuzzle\obj\Debug\OnesPuzzle.pdb

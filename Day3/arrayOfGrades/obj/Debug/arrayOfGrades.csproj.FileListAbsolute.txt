@@ -1,0 +1,6 @@
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\bin\Debug\arrayOfGrades.exe.config
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\bin\Debug\arrayOfGrades.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\bin\Debug\arrayOfGrades.pdb
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\obj\Debug\arrayOfGrades.csprojResolveAssemblyReference.cache
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\obj\Debug\arrayOfGrades.exe
+c:\Users\Mina\documents\visual studio 2015\Projects\Day3\arrayOfGrades\obj\Debug\arrayOfGrades.pdb
